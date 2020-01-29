@@ -15,5 +15,6 @@ public class TestRun
     	driver=new ChromeDriver();
     	driver.get("http://newtours.demoaut.com");
     	driver.quit();
+    	//closing the project
     }
 }
