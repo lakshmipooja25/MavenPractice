@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="166" started-at="2020-01-30T18:29:33Z" finished-at="2020-01-30T18:29:33Z">
+  <suite name="Default suite" duration-ms="175" started-at="2020-02-15T10:17:43Z" finished-at="2020-02-15T10:17:43Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="166" started-at="2020-01-30T18:29:33Z" finished-at="2020-01-30T18:29:33Z">
+    <test name="Default test" duration-ms="175" started-at="2020-02-15T10:17:43Z" finished-at="2020-02-15T10:17:43Z">
       <class name="com.MavenPractice.MavenPractice.TestXMLFileLog4j">
-        <test-method status="PASS" signature="TestApplication()[pri:0, instance:com.MavenPractice.MavenPractice.TestXMLFileLog4j@ff5b51f]" name="TestApplication" duration-ms="128" started-at="2020-01-30T18:29:33Z" finished-at="2020-01-30T18:29:33Z">
+        <test-method status="PASS" signature="TestApplication()[pri:0, instance:com.MavenPractice.MavenPractice.TestXMLFileLog4j@ff5b51f]" name="TestApplication" duration-ms="126" started-at="2020-02-15T10:17:43Z" finished-at="2020-02-15T10:17:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestApplication -->

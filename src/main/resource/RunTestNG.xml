@@ -9,10 +9,10 @@
 
  
  <classes>
-
- <class name="com.MavenPractice.MavenPractice.TestRun" />
-
- </classes>
+      <class name="com.MavenPractice.MavenPractice.TestXMLFileLog4j"/>
+      <class name="com.MavenPractice.MavenPractice.TestBasicConfigurator_log4j"/>
+     
+    </classes>
 
  </test>
 
