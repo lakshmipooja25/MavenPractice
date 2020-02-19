@@ -13,7 +13,7 @@ public class TestBasicConfigurator_log4j
     @Test
     public void TestApplication()
     {
-
+//new
     	BasicConfigurator.configure();
     	log.info("Entering Username");
     	log.info("Entering Password");
